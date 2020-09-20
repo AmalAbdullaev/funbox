@@ -1,7 +1,5 @@
 # Тестовое задание FunBox
 
-[https://dl.fun-box.ru/qt-js.pdf](https://dl.fun-box.ru/qt-js.pdf)
-
 ## Level I
 
 > Q1
